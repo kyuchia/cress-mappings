@@ -40,11 +40,11 @@ image,name,classification,mei
 </neume>"
 ,Podatus 2,neume.podatus2,"<neume>
     <nc/>
-    <nc  tilt=""s"" />
+    <nc  tilt=""s""  intm=""1S""/>
 </neume>"
 ,Podatus 3,neume.podatus3,"<neume>
     <nc/>
-    <nc  tilt=""s"" />
+    <nc  tilt=""s""  intm=""2S""/>
 </neume>"
 ,Podatus 4,neume.podatus4,"<neume>
     <nc/>
